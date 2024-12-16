@@ -29,8 +29,8 @@ Each file contains the solution, and the code is annotated with comments for cla
 ## Languages Used
 
 The solutions in this repository are implemented in the following languages:
-- Python
 - JavaScript
+- SQL
 
 ## LeetCode Stats
 
