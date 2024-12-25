@@ -13,13 +13,14 @@ This repository contains my solutions to various coding challenges on LeetCode. 
 ## Problem Solving Approach
 
 Each solution is designed to solve a specific problem efficiently using the appropriate data structures and algorithms. For each problem, I have made an effort to:
+
 - Optimize for time and space complexity.
-- Provide a clear explanation of the approach used.
 - Offer alternative solutions when applicable.
 
 ## Solution Organization
 
 The solutions are organized by difficulty and programming language. Here is how the repository is structured:
+
 - **Easy**: Problems that are considered relatively simple and straightforward.
 - **Medium**: Problems that require deeper thinking and a good understanding of algorithms.
 - **Hard**: Advanced problems involving more complex algorithms and data structures.
@@ -29,6 +30,7 @@ Each file contains the solution, and the code is annotated with comments for cla
 ## Languages Used
 
 The solutions in this repository are implemented in the following languages:
+
 - JavaScript
 - SQL
 
@@ -45,4 +47,3 @@ I continually update this repository with new solutions as I solve more problems
 ---
 
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jacob-young-488602302/) or [Email](jgyoung618@gmail.com) for further discussion or inquiries regarding my work.
-
