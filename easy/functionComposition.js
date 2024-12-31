@@ -51,6 +51,7 @@ function compose(functions) {
   };
 }
 
+
 const functions = [(x) => x + 1, (x) => x * x, (x) => 2 * x];
 const x = 4;
 const composedFunction = compose(functions);
